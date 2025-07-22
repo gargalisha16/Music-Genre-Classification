@@ -51,7 +51,3 @@ This project focuses on **classifying music tracks into 10 genres** using a **de
 - **Languages:** Python  
 - **Libraries:** TensorFlow/Keras, Librosa, NumPy, Pandas, Matplotlib  
 - **Tools:** Jupyter Notebook, Git, Google Colab
-
----
-
-## **Repository Structure**
